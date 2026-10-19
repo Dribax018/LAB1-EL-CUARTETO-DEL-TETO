@@ -133,6 +133,7 @@ GameObject:
   - component: {fileID: 593695336}
   - component: {fileID: 593695335}
   - component: {fileID: 593695341}
+  - component: {fileID: 593695342}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -159,6 +160,9 @@ MonoBehaviour:
   playerCamera: {fileID: 2002490409}
   lookSpeed: 2
   lookXLimit: 45
+  characterController: {fileID: 0}
+  moveDirection: {x: 0, y: 0, z: 0}
+  rotationX: 0
   canMove: 1
 --- !u!143 &593695336
 CharacterController:
@@ -278,6 +282,21 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &593695342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 593695334}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7ef4cbe47cbc4f488bb93ca5488d932, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
+  rb: {fileID: 0}
+  moveSpeed: 5
+  jumpForce: 10
 --- !u!1 &844374926
 GameObject:
   m_ObjectHideFlags: 0
