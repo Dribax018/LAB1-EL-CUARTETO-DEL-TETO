@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     public TextMeshProUGUI cherryText;
     [Header("Puntuación")]
     public int cherries = 0;
-
+    public bool moviend_der = false;
     private void Start()
     {
         rb.freezeRotation = true;
@@ -30,8 +30,10 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
         {
+            moviend_der = true;
             horizontal = 1f;
             transform.localScale = new Vector2(5, 5);
+            moviend_der = false;
         }
         else if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
         {

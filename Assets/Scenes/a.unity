@@ -330,7 +330,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.23, y: 0.34}
+    oldSize: {x: 0.22, y: 0.36}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -456,6 +456,7 @@ MonoBehaviour:
   jumpForce: 10
   cherryText: {fileID: 0}
   cherries: 0
+  moviend_der: 0
 --- !u!95 &177534029
 Animator:
   serializedVersion: 7
@@ -996,7 +997,7 @@ GameObject:
   - component: {fileID: 1030174099}
   - component: {fileID: 1030174098}
   m_Layer: 0
-  m_Name: Circle
+  m_Name: moneda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
