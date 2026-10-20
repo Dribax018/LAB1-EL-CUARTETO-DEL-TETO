@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 56990e4ae499de24b96c15c8fb950bbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -221816396624506645
+    second: Atlas pixel art de mazmorra y HUD_0
+  - first:
+      213: 2031849417654339601
+    second: Atlas pixel art de mazmorra y HUD_1
+  - first:
+      213: 8830804193685939609
+    second: Atlas pixel art de mazmorra y HUD_2
+  - first:
+      213: -5723251282710829205
+    second: Atlas pixel art de mazmorra y HUD_3
+  - first:
+      213: -6018300308941949494
+    second: Atlas pixel art de mazmorra y HUD_4
+  - first:
+      213: 2295365159020828052
+    second: Atlas pixel art de mazmorra y HUD_5
+  - first:
+      213: 2229660866812601085
+    second: Atlas pixel art de mazmorra y HUD_6
+  - first:
+      213: 4572843383166307549
+    second: Atlas pixel art de mazmorra y HUD_7
+  - first:
+      213: -1862190118828865138
+    second: Atlas pixel art de mazmorra y HUD_8
+  - first:
+      213: 3724027486062518505
+    second: Atlas pixel art de mazmorra y HUD_9
+  - first:
+      213: 7915970400946380301
+    second: Atlas pixel art de mazmorra y HUD_10
+  - first:
+      213: 937042226173804079
+    second: Atlas pixel art de mazmorra y HUD_11
+  - first:
+      213: 4819852433848058850
+    second: Atlas pixel art de mazmorra y HUD_12
+  - first:
+      213: 8699276565083924562
+    second: Atlas pixel art de mazmorra y HUD_13
+  - first:
+      213: 2158890413094794050
+    second: Atlas pixel art de mazmorra y HUD_14
+  - first:
+      213: -4079146530480456702
+    second: Atlas pixel art de mazmorra y HUD_15
+  - first:
+      213: -2209626425523754020
+    second: Atlas pixel art de mazmorra y HUD_16
+  - first:
+      213: 7514874486347570504
+    second: Atlas pixel art de mazmorra y HUD_17
+  - first:
+      213: -1440671711123897106
+    second: Atlas pixel art de mazmorra y HUD_18
+  - first:
+      213: 454556583487952240
+    second: Atlas pixel art de mazmorra y HUD_19
+  - first:
+      213: 1557982331263802356
+    second: Atlas pixel art de mazmorra y HUD_20
+  - first:
+      213: -665879680503851069
+    second: Atlas pixel art de mazmorra y HUD_21
+  - first:
+      213: 8470259994299103435
+    second: Atlas pixel art de mazmorra y HUD_22
+  - first:
+      213: -7657541525296780383
+    second: Atlas pixel art de mazmorra y HUD_23
+  - first:
+      213: 6111204792348994774
+    second: Atlas pixel art de mazmorra y HUD_24
+  - first:
+      213: 8819359372268293389
+    second: Atlas pixel art de mazmorra y HUD_25
+  - first:
+      213: 1210023740368991585
+    second: Atlas pixel art de mazmorra y HUD_26
+  - first:
+      213: 7773458111935058828
+    second: Atlas pixel art de mazmorra y HUD_27
+  - first:
+      213: -5557811062303245369
+    second: Atlas pixel art de mazmorra y HUD_28
+  - first:
+      213: 7172758991810344414
+    second: Atlas pixel art de mazmorra y HUD_29
+  - first:
+      213: 3359197755483877947
+    second: Atlas pixel art de mazmorra y HUD_30
+  - first:
+      213: -4445443132466316086
+    second: Atlas pixel art de mazmorra y HUD_31
+  - first:
+      213: 3706651984448782569
+    second: Atlas pixel art de mazmorra y HUD_32
+  - first:
+      213: -9080616259604770249
+    second: Atlas pixel art de mazmorra y HUD_33
+  - first:
+      213: 9135180022010273715
+    second: Atlas pixel art de mazmorra y HUD_34
+  - first:
+      213: -8518803271627767754
+    second: Atlas pixel art de mazmorra y HUD_35
+  - first:
+      213: -1451012522845716700
+    second: Atlas pixel art de mazmorra y HUD_36
+  - first:
+      213: 3622391170449961256
+    second: Atlas pixel art de mazmorra y HUD_37
+  - first:
+      213: -4026794664006144398
+    second: Atlas pixel art de mazmorra y HUD_38
+  - first:
+      213: -8883721935972061370
+    second: Atlas pixel art de mazmorra y HUD_39
+  - first:
+      213: 3305488847872581112
+    second: Atlas pixel art de mazmorra y HUD_40
+  - first:
+      213: 6293348832800241558
+    second: Atlas pixel art de mazmorra y HUD_41
+  - first:
+      213: -699539103158855803
+    second: Atlas pixel art de mazmorra y HUD_42
+  - first:
+      213: -3245775671376163060
+    second: Atlas pixel art de mazmorra y HUD_43
+  - first:
+      213: 4902861176834636167
+    second: Atlas pixel art de mazmorra y HUD_44
+  - first:
+      213: 6889413997820413565
+    second: Atlas pixel art de mazmorra y HUD_45
+  - first:
+      213: -6345623739431006184
+    second: Atlas pixel art de mazmorra y HUD_46
+  - first:
+      213: 2830911588250101904
+    second: Atlas pixel art de mazmorra y HUD_47
+  - first:
+      213: 8295769766189661136
+    second: Atlas pixel art de mazmorra y HUD_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 1203
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0d6d99923fbecf0800000000000000
+      internalID: -221816396624506645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_1
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 666
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1180f58b744923c10800000000000000
+      internalID: 2031849417654339601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_2
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 369
+        width: 478
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9952ea560a15d8a70800000000000000
+      internalID: 8830804193685939609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_3
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 674
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67e8bd084de290b0800000000000000
+      internalID: -5723251282710829205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_4
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 668
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac534ed51c3ba7ca0800000000000000
+      internalID: -6018300308941949494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 406
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4959e356376cadf10800000000000000
+      internalID: 2295365159020828052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 404
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df264ffbeb851fe10800000000000000
+      internalID: 2229660866812601085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 416
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc8f1b34d0067f30800000000000000
+      internalID: 4572843383166307549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_8
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 419
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8986f604fb2826e0800000000000000
+      internalID: -1862190118828865138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 422
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e02c8094476ea330800000000000000
+      internalID: 3724027486062518505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 386
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e5ae8932d2bdd60800000000000000
+      internalID: 7915970400946380301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_11
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 407
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e71a6a0fa010d00800000000000000
+      internalID: 937042226173804079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_12
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 405
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3c05d704e83e240800000000000000
+      internalID: 4819852433848058850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 404
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25825b8f1f90ab870800000000000000
+      internalID: 8699276565083924562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 385
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243f285746be5fd10800000000000000
+      internalID: 2158890413094794050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 366
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cf1ffb7d5f367c0800000000000000
+      internalID: -4079146530480456702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 403
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb275c1974d551e0800000000000000
+      internalID: -2209626425523754020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 402
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d9462a7823a4860800000000000000
+      internalID: 7514874486347570504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 387
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4818436b4b10ce0800000000000000
+      internalID: -1440671711123897106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_19
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 403
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0755d19edc8ee4600800000000000000
+      internalID: 454556583487952240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_20
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 402
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb505dfca01f9510800000000000000
+      internalID: 1557982331263802356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_21
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 402
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7da6465f152c6f0800000000000000
+      internalID: -665879680503851069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_22
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 388
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8766366986c8570800000000000000
+      internalID: 8470259994299103435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1508
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abe1ebdd82fab590800000000000000
+      internalID: -7657541525296780383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_24
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 384
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc60ad416c5fc450800000000000000
+      internalID: 6111204792348994774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_25
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 373
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d40924f98a46a70800000000000000
+      internalID: 8819359372268293389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_26
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 390
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165bb7e4e2edac010800000000000000
+      internalID: 1210023740368991585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_27
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 388
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83944e97fed0eb60800000000000000
+      internalID: 7773458111935058828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_28
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 379
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbbdae0940bed2b0800000000000000
+      internalID: -5557811062303245369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_29
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 377
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed53856dc42ca8360800000000000000
+      internalID: 7172758991810344414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_30
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 380
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32f7e19f844e9e20800000000000000
+      internalID: 3359197755483877947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_31
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 0
+        width: 195
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc3524260d9e42c0800000000000000
+      internalID: -4445443132466316086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e00117575ca07330800000000000000
+      internalID: 3706651984448782569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 24
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7321f908f9b2bf180800000000000000
+      internalID: -9080616259604770249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_34
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 0
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfda2b64dda6ce70800000000000000
+      internalID: 9135180022010273715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_35
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630013b1f8127c980800000000000000
+      internalID: -8518803271627767754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_36
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 12
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f332b5cc7fcdbe0800000000000000
+      internalID: -1451012522845716700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_37
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 6
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8217e28c391554230800000000000000
+      internalID: 3622391170449961256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_38
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ea9748693fd18c0800000000000000
+      internalID: -4026794664006144398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_39
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 0
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f2a0b97fda6b480800000000000000
+      internalID: -8883721935972061370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_40
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 0
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdd57a08947fdd20800000000000000
+      internalID: 3305488847872581112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_41
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 0
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6977daa7b67765750800000000000000
+      internalID: 6293348832800241558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_42
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 13
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58798b954ecba46f0800000000000000
+      internalID: -699539103158855803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_43
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fc4074930b4f2d0800000000000000
+      internalID: -3245775671376163060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_44
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789384c83467a0440800000000000000
+      internalID: 4902861176834636167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_45
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7680b2878d1c9f50800000000000000
+      internalID: 6889413997820413565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_46
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 0
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810ddec54d0dfe7a0800000000000000
+      internalID: -6345623739431006184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_47
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 0
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0982f28371b694720800000000000000
+      internalID: 2830911588250101904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas pixel art de mazmorra y HUD_48
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 0
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbf82446ae702370800000000000000
+      internalID: 8295769766189661136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas pixel art de mazmorra y HUD_0: -221816396624506645
+      Atlas pixel art de mazmorra y HUD_1: 2031849417654339601
+      Atlas pixel art de mazmorra y HUD_10: 7915970400946380301
+      Atlas pixel art de mazmorra y HUD_11: 937042226173804079
+      Atlas pixel art de mazmorra y HUD_12: 4819852433848058850
+      Atlas pixel art de mazmorra y HUD_13: 8699276565083924562
+      Atlas pixel art de mazmorra y HUD_14: 2158890413094794050
+      Atlas pixel art de mazmorra y HUD_15: -4079146530480456702
+      Atlas pixel art de mazmorra y HUD_16: -2209626425523754020
+      Atlas pixel art de mazmorra y HUD_17: 7514874486347570504
+      Atlas pixel art de mazmorra y HUD_18: -1440671711123897106
+      Atlas pixel art de mazmorra y HUD_19: 454556583487952240
+      Atlas pixel art de mazmorra y HUD_2: 8830804193685939609
+      Atlas pixel art de mazmorra y HUD_20: 1557982331263802356
+      Atlas pixel art de mazmorra y HUD_21: -665879680503851069
+      Atlas pixel art de mazmorra y HUD_22: 8470259994299103435
+      Atlas pixel art de mazmorra y HUD_23: -7657541525296780383
+      Atlas pixel art de mazmorra y HUD_24: 6111204792348994774
+      Atlas pixel art de mazmorra y HUD_25: 8819359372268293389
+      Atlas pixel art de mazmorra y HUD_26: 1210023740368991585
+      Atlas pixel art de mazmorra y HUD_27: 7773458111935058828
+      Atlas pixel art de mazmorra y HUD_28: -5557811062303245369
+      Atlas pixel art de mazmorra y HUD_29: 7172758991810344414
+      Atlas pixel art de mazmorra y HUD_3: -5723251282710829205
+      Atlas pixel art de mazmorra y HUD_30: 3359197755483877947
+      Atlas pixel art de mazmorra y HUD_31: -4445443132466316086
+      Atlas pixel art de mazmorra y HUD_32: 3706651984448782569
+      Atlas pixel art de mazmorra y HUD_33: -9080616259604770249
+      Atlas pixel art de mazmorra y HUD_34: 9135180022010273715
+      Atlas pixel art de mazmorra y HUD_35: -8518803271627767754
+      Atlas pixel art de mazmorra y HUD_36: -1451012522845716700
+      Atlas pixel art de mazmorra y HUD_37: 3622391170449961256
+      Atlas pixel art de mazmorra y HUD_38: -4026794664006144398
+      Atlas pixel art de mazmorra y HUD_39: -8883721935972061370
+      Atlas pixel art de mazmorra y HUD_4: -6018300308941949494
+      Atlas pixel art de mazmorra y HUD_40: 3305488847872581112
+      Atlas pixel art de mazmorra y HUD_41: 6293348832800241558
+      Atlas pixel art de mazmorra y HUD_42: -699539103158855803
+      Atlas pixel art de mazmorra y HUD_43: -3245775671376163060
+      Atlas pixel art de mazmorra y HUD_44: 4902861176834636167
+      Atlas pixel art de mazmorra y HUD_45: 6889413997820413565
+      Atlas pixel art de mazmorra y HUD_46: -6345623739431006184
+      Atlas pixel art de mazmorra y HUD_47: 2830911588250101904
+      Atlas pixel art de mazmorra y HUD_48: 8295769766189661136
+      Atlas pixel art de mazmorra y HUD_5: 2295365159020828052
+      Atlas pixel art de mazmorra y HUD_6: 2229660866812601085
+      Atlas pixel art de mazmorra y HUD_7: 4572843383166307549
+      Atlas pixel art de mazmorra y HUD_8: -1862190118828865138
+      Atlas pixel art de mazmorra y HUD_9: 3724027486062518505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
